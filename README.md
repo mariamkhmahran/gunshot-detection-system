@@ -44,3 +44,7 @@ When applied to unseen sound clips obtained from the internet, the 1D CNN model 
 ## Conclusion
 
 This gun detection system offers a foundation for identifying gunshots in urban environments. The two approaches explored in this repository provide insights into different methodologies for sound processing and audio classification. By leveraging this code, you can further enhance the system's performance and contribute to the important task of gunshot detection and prevention.
+
+## References
+
+[1] Y. Tanoko and A. Zahra, “Multi-feature stacking order impact on speech emotion recognition performance,” Bulletin of Electrical Engineering and Informatics, vol. 11, no. 6, pp. 3272–3278, Dec. 2022, doi: 10.11591/EEI.V11I6.4287.
